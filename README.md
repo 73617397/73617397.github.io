@@ -1,2 +1,2 @@
 # 73617397.github.io
-proyectos certus publicados en github pages
+Proyectos Certus publicados en GitHub pages
